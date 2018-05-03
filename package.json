@@ -2,9 +2,9 @@
   "name": "l1o2",
   "version": "1.0.0",
   "description": "Random User Generator REST API in Node.js",
-  "main": "./L1O3-O7/index.js",
+  "main": "L1O3-O7/index.js",
   "scripts": {
-    "start": "node ./L1O3-O7/index.js"
+    "start": "node L1O3-O7/index.js"
   },
   "author": "btaks",
   "license": "ISC",
