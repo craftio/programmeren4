@@ -1,1 +1,1 @@
-web: node ./L1O3-7/index.js
+web: node L1O3-7/index.js
